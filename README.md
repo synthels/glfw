@@ -1,3 +1,6 @@
+# Attention
+This is a personal fork of GLFW, not the official repository
+
 # GLFW
 
 [![Build status](https://travis-ci.org/glfw/glfw.svg?branch=master)](https://travis-ci.org/glfw/glfw)
